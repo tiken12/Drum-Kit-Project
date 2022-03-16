@@ -85,9 +85,9 @@ for(var i= 0; i<numberOfDrumButtons; i++) {
       }
       
 
-// document.addEventListener("keypress", function(event) {
+// document.addEventListener("keypress", function(event) {    
 // console.log(event);
-// });
+// });    to call out the event
 
 
   
@@ -95,5 +95,5 @@ for(var i= 0; i<numberOfDrumButtons; i++) {
 
 // this.style.color="white"; to change the button color
 
-// var audio = new Audio("sounds/tom-1.mp3");
+// var audio = new Audio("sounds/tom-1.mp3");   To play audio
 //         audio.play();
